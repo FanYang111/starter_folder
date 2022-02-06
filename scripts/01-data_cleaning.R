@@ -14,6 +14,11 @@
 
 #Get data from opendatatoronto
 library(opendatatoronto)
+library(knitr)
+library(ggplot2)
+library(astsa)
+library(stats)
+library(opendatatoronto)
 library(dplyr)
 
 # get package
